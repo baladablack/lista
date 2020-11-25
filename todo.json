@@ -1,11 +1,11 @@
 {
 	"task": [
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Euques Wabes"
 		},
 		{
-			"done": false,
+			"done": true,
 			"taskTitle": "Thiago Ventura"
 		}
 	]
