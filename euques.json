@@ -2,47 +2,21 @@
 	"task": [
 		{
 			"done": true,
-			"taskTitle": "Paula padua"
+			"taskTitle": "Paula padua",
+			"Presente": false,
+			"AdicionarNome": "Fulano"
 		},
 		{
 			"done": true,
-			"taskTitle": "Fabiana Patricia"
+			"taskTitle": "Fabiana Patricia",
+			"Presente": false,
+			"AdicionarNome": "Deutrano"
 		},
 		{
 			"done": false,
-			"taskTitle": "Fulana"
-		},
-		{
-			"done": true,
-			"taskTitle": "Pablo José"
-		},
-		{
-			"done": false,
-			"taskTitle": "Marindálva"
-		},
-		{
-			"done": false,
-			"taskTitle": "Carlos Alberto Farias "
-		},
-		{
-			"done": false,
-			"taskTitle": "Margarete Damaceno"
-		},
-		{
-			"done": true,
-			"taskTitle": "Yasmin Wabes"
-		},
-		{
-			"done": false,
-			"taskTitle": "Maria Eduarda"
-		},
-		{
-			"done": false,
-			"taskTitle": "Paulo Costa"
-		},
-		{
-			"done": false,
-			"taskTitle": "Marina Silva"
+			"taskTitle": "Fulana",
+			"Presente": false,
+			"AdicionarNome": "Deutrano, deutrano"
 		}
 	]
 }
