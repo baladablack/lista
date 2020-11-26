@@ -57,6 +57,10 @@
 		{
 			"presente": false,
 			"AdicionarNome": "Outra pessoa ainda"
+		},
+		{
+			"presente": false,
+			"AdicionarNome": "Mais um nome"
 		}
 	]
 }
