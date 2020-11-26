@@ -18,5 +18,19 @@
 			"Presente": false,
 			"AdicionarNome": "Deutrano, deutrano"
 		}
+	],
+	"Lista": [
+		{
+			"Presente": false,
+			"AdicionarNome": "Euques"
+		},
+		{
+			"Presente": false,
+			"AdicionarNome": "Mariana"
+		},
+		{
+			"Presente": false,
+			"AdicionarNome": "Marcos Andrade"
+		}
 	]
 }
