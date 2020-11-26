@@ -39,8 +39,24 @@
 	],
 	"lista": [
 		{
+			"presente": true,
+			"AdicionarNome": "Fulando"
+		},
+		{
+			"presente": true,
+			"AdicionarNome": "Deutrano"
+		},
+		{
 			"presente": false,
-			"AdicionarNome": "Digite um nome"
+			"AdicionarNome": "Ciclano"
+		},
+		{
+			"presente": false,
+			"AdicionarNome": "Fulano de tal"
+		},
+		{
+			"presente": false,
+			"AdicionarNome": "Outra pessoa ainda"
 		}
 	]
 }
