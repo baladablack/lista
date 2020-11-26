@@ -1,1 +1,46 @@
-
+{
+	"task": [
+		{
+			"done": true,
+			"taskTitle": "Paula padua",
+			"Presente": false,
+			"AdicionarNome": "Fulano"
+		},
+		{
+			"done": true,
+			"taskTitle": "Fabiana Patricia",
+			"Presente": false,
+			"AdicionarNome": "Deutrano"
+		},
+		{
+			"done": false,
+			"taskTitle": "Fulana",
+			"Presente": false,
+			"AdicionarNome": "Deutrano, deutrano"
+		}
+	],
+	"Lista": [
+		{
+			"Presente": false,
+			"AdicionarNome": "Euques"
+		},
+		{
+			"Presente": false,
+			"AdicionarNome": "Fulano"
+		},
+		{
+			"Presente": false,
+			"AdicionarNome": "Seutrano"
+		},
+		{
+			"Presente": false,
+			"AdicionarNome": "Fulano de tal"
+		}
+	],
+	"lista": [
+		{
+			"presente": false,
+			"AdicionarNome": "Digite um nome"
+		}
+	]
+}
