@@ -36,5 +36,23 @@
 			"Presente": false,
 			"AdicionarNome": "Fulano de tal"
 		}
+	],
+	"lista": [
+		{
+			"presente": true,
+			"AdicionarNome": "Fulano"
+		},
+		{
+			"presente": true,
+			"AdicionarNome": "Deutrano"
+		},
+		{
+			"presente": false,
+			"AdicionarNome": "Ciclano"
+		},
+		{
+			"presente": false,
+			"AdicionarNome": "Fulano de tal"
+		}
 	]
 }
