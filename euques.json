@@ -39,16 +39,12 @@
 	],
 	"lista": [
 		{
-			"presente": true,
-			"AdicionarNome": "Fulando"
+			"presente": false,
+			"AdicionarNome": "Ciclano"
 		},
 		{
 			"presente": true,
 			"AdicionarNome": "Deutrano"
-		},
-		{
-			"presente": false,
-			"AdicionarNome": "Ciclano"
 		},
 		{
 			"presente": false,
@@ -61,6 +57,10 @@
 		{
 			"presente": false,
 			"AdicionarNome": "Mais um nome"
+		},
+		{
+			"presente": true,
+			"AdicionarNome": "Fulando"
 		}
 	]
 }
